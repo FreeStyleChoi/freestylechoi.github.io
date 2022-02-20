@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to FreeStyle Choi's Pages
 
-You can use the [editor on GitHub](https://github.com/FreeStyleChoi/freestylechoi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+한글로 써요. 오마이가스래인지
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 듀유노우 마크다운?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+여기에다가 마크다운으로 작성할꺼임
 
 ```markdown
-Syntax highlighted code block
+코드는 이렇게 쓸수 있지
 
-# Header 1
-## Header 2
-### Header 3
+# 큰 제목
+## 중간 제목
+### 작은 제목
 
-- Bulleted
-- List
+- 꼭지점
+- 목록
 
-1. Numbered
-2. List
+1. 목차
+2. 목록
 
-**Bold** and _Italic_ and `Code` text
+**굵게** and _기울려서_ and `코드` 그냥 글씨
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+아몰랑
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FreeStyleChoi/freestylechoi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 연락
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+궁금해? 그럼 안녕~
