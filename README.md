@@ -1,4 +1,6 @@
-## Welcome to FreeStyle Choi's Pages
+Welcome to FreeStyle Choi's Pages
+=============================
+
 
 한글로 써요. 오마이가스래인지
 
@@ -13,6 +15,7 @@
 ## 중간 제목
 ### 작은 제목
 
+
 - 꼭지점
 - 목록
 
@@ -24,7 +27,10 @@
 [Link](url) and ![Image](src)
 ```
 
-아몰랑
+
+![Image](.\images\duck.jpg)
+
+
 
 
 ### 연락
